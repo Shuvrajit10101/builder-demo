@@ -349,79 +349,29 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 .hero {
   position: relative;
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-}
 
-/* Hero background / placeholder */
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  z-index: 0;
-}
-
-.hero-placeholder {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  border: none;
-  border-radius: 0;
-  background:
-    linear-gradient(
-      160deg,
-      #0d1a15 0%,
-      #111820 20%,
-      #141f2e 45%,
-      #0f1a18 70%,
-      #0a1210 100%
-    );
-  /* subtle noise-like texture via CSS */
+  /* Real image with dark gradient overlay */
+  background-color: #0d1a15; /* fallback while image loads */
   background-image:
-    radial-gradient(ellipse at 15% 20%, rgba(45,74,62,0.45) 0%, transparent 45%),
-    radial-gradient(ellipse at 80% 70%, rgba(18,28,45,0.8) 0%, transparent 50%),
-    radial-gradient(ellipse at 50% 90%, rgba(30,45,38,0.4) 0%, transparent 40%),
-    linear-gradient(160deg, #0d1a15 0%, #111820 30%, #141f2e 60%, #0a1210 100%);
-}
-
-/* Stripe pattern for hero bg to simulate mountains */
-.hero-placeholder::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background:
-    repeating-linear-gradient(
-      -30deg,
-      transparent 0px,
-      transparent 80px,
-      rgba(255,255,255,0.008) 80px,
-      rgba(255,255,255,0.008) 81px
-    );
-  pointer-events: none;
-}
-
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background:
     linear-gradient(
       to bottom,
-      rgba(15,20,18,0.3) 0%,
-      rgba(12,16,14,0.55) 40%,
-      rgba(10,14,12,0.75) 100%
-    );
+      rgba(15, 20, 18, 0.42) 0%,
+      rgba(10, 14, 12, 0.60) 50%,
+      rgba(8,  12, 10, 0.72) 100%
+    ),
+    url('/images/hero-bg.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* parallax on desktop */
 }
 
-/* Hero placeholder label (subtle, not prominent) */
-.hero-placeholder .placeholder-camera { color: var(--amber); opacity: 0.25; }
-.hero-placeholder .placeholder-label { color: var(--stone); opacity: 0.25; font-size: 0.7rem; }
-
-/* Hero content */
+/* ── Hero content ───────────────────────────────────── */
 .hero-content {
   position: relative;
   z-index: 2;
@@ -2026,7 +1976,13 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   .nav-cta { display: none; }
   .hamburger { display: flex; }
 
-  /* Hero */
+  /* Hero — disable fixed attachment on mobile (iOS Safari bug) */
+  .hero {
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100dvh;
+  }
   .hero-content { padding: calc(var(--nav-h) + 32px) 20px 80px; }
   .hero-headline { font-size: clamp(2rem, 8vw, 3rem); }
 
