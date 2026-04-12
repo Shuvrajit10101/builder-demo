@@ -354,21 +354,12 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
-  /* Real image with dark gradient overlay */
-  background-color: #0d1a15; /* fallback while image loads */
-  background-image:
-    linear-gradient(
-      to bottom,
-      rgba(15, 20, 18, 0.42) 0%,
-      rgba(10, 14, 12, 0.60) 50%,
-      rgba(8,  12, 10, 0.72) 100%
-    ),
-    url('/images/hero-bg.jpg');
+  background-color: #1a1a1a;
+  background-image: linear-gradient(rgba(26, 26, 26, 0.5), rgba(26, 26, 26, 0.65)), url('/images/hero-bg.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* parallax on desktop */
+  background-attachment: fixed;
 }
 
 /* ── Hero content ───────────────────────────────────── */
@@ -1976,11 +1967,9 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   .nav-cta { display: none; }
   .hamburger { display: flex; }
 
-  /* Hero — disable fixed attachment on mobile (iOS Safari bug) */
+  /* Hero — fixed attachment breaks on iOS Safari, use scroll */
   .hero {
     background-attachment: scroll;
-    background-size: cover;
-    background-position: center center;
     min-height: 100dvh;
   }
   .hero-content { padding: calc(var(--nav-h) + 32px) 20px 80px; }

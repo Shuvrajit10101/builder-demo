@@ -1,0 +1,469 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#home"
+  - generic [ref=e4]:
+    - paragraph [ref=e5]: Task Constructions
+    - paragraph [ref=e6]: Est. 1985
+  - navigation [ref=e9]:
+    - generic [ref=e10]:
+      - link "Task Constructions Est. 1985" [ref=e11] [cursor=pointer]:
+        - /url: "#home"
+        - generic [ref=e12]: Task Constructions
+        - generic [ref=e13]: Est. 1985
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "Home" [ref=e16] [cursor=pointer]:
+            - /url: "#home"
+        - listitem [ref=e17]:
+          - link "About" [ref=e18] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e19]:
+          - link "Attics" [ref=e20] [cursor=pointer]:
+            - /url: "#attics"
+        - listitem [ref=e21]:
+          - link "Gallery" [ref=e22] [cursor=pointer]:
+            - /url: "#gallery"
+        - listitem [ref=e23]:
+          - link "Contact" [ref=e24] [cursor=pointer]:
+            - /url: "#contact"
+      - link "Book a Site Visit" [ref=e25] [cursor=pointer]:
+        - /url: "#contact"
+  - generic [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Aman Vihar · Tutikandi · Shimla
+      - heading "Premium Attics in the Heart of Shimla" [level=1] [ref=e29]:
+        - text: Premium Attics in
+        - text: the Heart of Shimla
+      - paragraph [ref=e30]:
+        - text: Handcrafted living spaces with 40+ years of Himalayan construction mastery —
+        - text: Aman Vihar, Tutikandi, near ISBT Shimla
+      - generic [ref=e31]:
+        - link "Explore Attics" [ref=e32] [cursor=pointer]:
+          - /url: "#attics"
+        - 'link "Call Now: +91 XXXXX XXXXX" [ref=e33] [cursor=pointer]':
+          - /url: tel:+91XXXXXXXXXX
+    - generic [ref=e34]:
+      - generic [ref=e35]: Scroll
+      - img [ref=e37]
+  - generic [ref=e40]:
+    - generic [ref=e41]: Our Legacy
+    - heading "Building Shimla's Finest, Since 1985" [level=2] [ref=e42]:
+      - text: Building Shimla's Finest,
+      - emphasis [ref=e43]: Since 1985
+    - generic [ref=e44]:
+      - generic [ref=e46]:
+        - img [ref=e48]
+        - generic [ref=e51]: About Image — Construction Team Photo
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: For over four decades, Task Constructions has been synonymous with quality craftsmanship in the hills of Himachal Pradesh. Founded in 1985, we have shaped Shimla's residential landscape with an unwavering commitment to building homes that endure generations — not just seasons.
+          - paragraph [ref=e55]: "Our expertise spans the full spectrum of mountain construction: traditional Himachali cottages, stone-and-mortar fireplaces built to withstand sub-zero winters, and Shimla's iconic slate roofing that has sheltered families for over a century. Every project carries the weight of our reputation — and we carry it proudly."
+          - paragraph [ref=e56]: "Today, we bring that same heritage of excellence to a new chapter: premium attic living spaces in Aman Vihar, Tutikandi. These are not ordinary apartments — they are handcrafted sky-homes, designed with the same care and mastery we have applied to every structure we have ever built in these mountains."
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]: "0"
+            - generic [ref=e60]: Years Experience
+          - generic [ref=e62]:
+            - generic [ref=e63]: "0"
+            - generic [ref=e64]: Projects Delivered
+          - generic [ref=e66]:
+            - generic [ref=e67]: "0"
+            - generic [ref=e68]: Happy Families
+  - generic [ref=e71]:
+    - generic [ref=e72]: Where to Find Us
+    - heading "Prime Location — Aman Vihar, Tutikandi" [level=2] [ref=e73]:
+      - text: Prime Location —
+      - emphasis [ref=e74]: Aman Vihar, Tutikandi
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - img [ref=e79]
+          - generic [ref=e84]:
+            - generic [ref=e85]: 2 min
+            - generic [ref=e86]: from ISBT Shimla
+        - generic [ref=e87]:
+          - img [ref=e89]
+          - generic [ref=e92]:
+            - generic [ref=e93]: 15 min
+            - generic [ref=e94]: to Mall Road
+        - generic [ref=e95]:
+          - img [ref=e97]
+          - generic [ref=e99]:
+            - generic [ref=e100]: 5 min
+            - generic [ref=e101]: to nearest hospital
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - generic [ref=e107]:
+            - generic [ref=e108]: Nearby
+            - generic [ref=e109]: Schools & colleges
+        - generic [ref=e110]:
+          - img [ref=e112]
+          - generic [ref=e115]:
+            - generic [ref=e116]: Easy
+            - generic [ref=e117]: Drive-in access
+        - generic [ref=e118]:
+          - img [ref=e120]
+          - generic [ref=e126]:
+            - generic [ref=e127]: All day
+            - generic [ref=e128]: Natural sunlight
+      - generic [ref=e130]:
+        - img [ref=e132]
+        - generic [ref=e135]:
+          - text: Google Maps Embed
+          - generic [ref=e136]: Aman Vihar, Tutikandi, Shimla
+    - generic [ref=e137]:
+      - generic [ref=e138]: "\""
+      - paragraph [ref=e139]: Where the mountains meet modern living
+      - generic [ref=e140]: "\""
+  - generic [ref=e142]:
+    - generic [ref=e143]: Available Units
+    - heading "Explore Our Premium Attics" [level=2] [ref=e144]:
+      - text: Explore Our
+      - emphasis [ref=e145]: Premium Attics
+    - paragraph [ref=e146]: Thoughtfully designed living spaces with panoramic Himalayan views
+    - generic [ref=e147]:
+      - article [ref=e148]:
+        - generic [ref=e150]:
+          - img [ref=e152]
+          - generic [ref=e155]: Attic Unit A — Studio Interior
+        - generic [ref=e156]:
+          - generic [ref=e157]:
+            - generic [ref=e158]: Studio
+            - generic [ref=e159]: 450 sq.ft.
+          - heading "Alpine Studio Attic" [level=3] [ref=e160]
+          - generic [ref=e161]:
+            - generic [ref=e162]: Valley View
+            - generic [ref=e163]: Fireplace-Ready
+            - generic [ref=e164]: Wooden Flooring
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - text: ₹18.5 Lakhs
+              - superscript [ref=e167]: "*"
+            - link "Enquire Now" [ref=e168] [cursor=pointer]:
+              - /url: "#contact"
+      - article [ref=e169]:
+        - generic [ref=e171]:
+          - img [ref=e173]
+          - generic [ref=e176]: Attic Unit B — 1BHK Living Room
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - generic [ref=e179]: 1 BHK
+            - generic [ref=e180]: 650 sq.ft.
+          - heading "Cedar 1BHK Attic" [level=3] [ref=e181]
+          - generic [ref=e182]:
+            - generic [ref=e183]: Slate Roof
+            - generic [ref=e184]: Balcony
+            - generic [ref=e185]: Modular Kitchen
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - text: ₹28 Lakhs
+              - superscript [ref=e188]: "*"
+            - link "Enquire Now" [ref=e189] [cursor=pointer]:
+              - /url: "#contact"
+      - article [ref=e190]:
+        - generic [ref=e192]:
+          - img [ref=e194]
+          - generic [ref=e197]: Attic Unit C — 2BHK Full View
+        - generic [ref=e198]:
+          - generic [ref=e199]:
+            - generic [ref=e200]: 2 BHK
+            - generic [ref=e201]: 950 sq.ft.
+          - heading "Pine 2BHK Attic" [level=3] [ref=e202]
+          - generic [ref=e203]:
+            - generic [ref=e204]: Dual Balcony
+            - generic [ref=e205]: Fireplace
+            - generic [ref=e206]: Mountain View
+            - generic [ref=e207]: Parking
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - text: ₹42 Lakhs
+              - superscript [ref=e210]: "*"
+            - link "Enquire Now" [ref=e211] [cursor=pointer]:
+              - /url: "#contact"
+      - article [ref=e212]:
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - img [ref=e216]
+            - generic [ref=e219]: Attic Unit D — Penthouse Terrace
+          - generic [ref=e220]: Premium
+        - generic [ref=e221]:
+          - generic [ref=e222]:
+            - generic [ref=e223]: 3 BHK Duplex
+            - generic [ref=e224]: 1400 sq.ft.
+          - heading "Summit Penthouse Attic" [level=3] [ref=e225]
+          - generic [ref=e226]:
+            - generic [ref=e227]: Private Terrace
+            - generic [ref=e228]: 360° View
+            - generic [ref=e229]: Premium Fittings
+            - generic [ref=e230]: Double Fireplace
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - text: ₹65 Lakhs
+              - superscript [ref=e233]: "*"
+            - link "Enquire Now" [ref=e234] [cursor=pointer]:
+              - /url: "#contact"
+    - paragraph [ref=e235]: "* Prices are indicative and subject to change. Contact us for exact pricing."
+  - generic [ref=e238]:
+    - generic [ref=e239]: Our Craft
+    - heading "Why Task Constructions?" [level=2] [ref=e240]
+    - paragraph [ref=e241]: Four decades of Himalayan building expertise in every brick
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - img [ref=e245]
+        - heading "Earthquake-Resistant Build" [level=3] [ref=e247]
+        - paragraph [ref=e248]: Engineered for Seismic Zone V with reinforced concrete framing and proper foundation anchoring.
+      - generic [ref=e249]:
+        - img [ref=e251]
+        - heading "Traditional Slate Roofing" [level=3] [ref=e254]
+        - paragraph [ref=e255]: Authentic Himachali slate sourced locally, providing natural insulation and timeless aesthetics.
+      - generic [ref=e256]:
+        - img [ref=e258]
+        - heading "Fireplace-Ready Design" [level=3] [ref=e260]
+        - paragraph [ref=e261]: Every attic comes pre-fitted with chimney ducting and hearth space for wood-burning or electric fireplaces.
+      - generic [ref=e262]:
+        - img [ref=e264]
+        - heading "Full-Day Sunlight" [level=3] [ref=e270]
+        - paragraph [ref=e271]: South-facing orientation ensures warm natural light throughout the day, even in harsh Shimla winters.
+      - generic [ref=e272]:
+        - img [ref=e274]
+        - heading "Drive-In Access" [level=3] [ref=e279]
+        - paragraph [ref=e280]: Motorable road connectivity right to your doorstep, just 2 minutes from ISBT Shimla.
+      - generic [ref=e281]:
+        - img [ref=e283]
+        - heading "Panoramic Views" [level=3] [ref=e285]
+        - paragraph [ref=e286]: Unobstructed views of the Himalayan ranges and lush green valleys from every attic unit.
+  - generic [ref=e289]:
+    - generic [ref=e290]: Our Work
+    - heading "A Glimpse of Craftsmanship" [level=2] [ref=e291]:
+      - text: A Glimpse of
+      - emphasis [ref=e292]: Craftsmanship
+    - paragraph [ref=e293]: 40+ years of building excellence in the Himalayas
+    - generic [ref=e294]:
+      - generic [ref=e296] [cursor=pointer]:
+        - img [ref=e298]
+        - generic [ref=e301]: Attic Interior — Living Space
+      - generic [ref=e303] [cursor=pointer]:
+        - img [ref=e305]
+        - generic [ref=e308]: Valley View from Balcony
+      - generic [ref=e310] [cursor=pointer]:
+        - img [ref=e312]
+        - generic [ref=e315]: Slate Roof Close-up Detail
+      - generic [ref=e317] [cursor=pointer]:
+        - img [ref=e319]
+        - generic [ref=e322]: Stone Fireplace Installation
+      - generic [ref=e324] [cursor=pointer]:
+        - img [ref=e326]
+        - generic [ref=e329]: Building Exterior — Front Facade
+      - generic [ref=e331] [cursor=pointer]:
+        - img [ref=e333]
+        - generic [ref=e336]: Wooden Ceiling & Beam Work
+      - generic [ref=e338] [cursor=pointer]:
+        - img [ref=e340]
+        - generic [ref=e343]: Surrounding Pine Forest & Landscape
+      - generic [ref=e345] [cursor=pointer]:
+        - img [ref=e347]
+        - generic [ref=e350]: Construction Progress — Quality Check
+    - link "View All Photos" [ref=e352] [cursor=pointer]:
+      - /url: "#contact"
+      - text: View All Photos
+      - img [ref=e353]
+  - generic [ref=e357]:
+    - generic [ref=e358]: Homeowner Stories
+    - heading "What Our Homeowners Say" [level=2] [ref=e359]:
+      - text: What Our
+      - emphasis [ref=e360]: Homeowners Say
+    - generic [ref=e361]:
+      - generic [ref=e362]:
+        - generic: "\""
+        - paragraph [ref=e363]: Task Constructions delivered beyond expectations. The slate roofing and fireplace work in our Shimla cottage is absolutely world-class. 40 years of experience truly shows in every detail.
+        - generic "5 stars" [ref=e364]:
+          - generic [ref=e365]: ★
+          - generic [ref=e366]: ★
+          - generic [ref=e367]: ★
+          - generic [ref=e368]: ★
+          - generic [ref=e369]: ★
+        - generic [ref=e370]:
+          - generic [ref=e371]: RK
+          - generic [ref=e372]:
+            - generic [ref=e373]: Rajesh Kumar
+            - generic [ref=e374]: Chandigarh
+      - generic [ref=e375]:
+        - generic: "\""
+        - paragraph [ref=e376]: We bought our attic as a weekend retreat and it's become our favorite place. The mountain views, the quality of construction, and the warm wooden interiors — everything is perfect.
+        - generic "5 stars" [ref=e377]:
+          - generic [ref=e378]: ★
+          - generic [ref=e379]: ★
+          - generic [ref=e380]: ★
+          - generic [ref=e381]: ★
+          - generic [ref=e382]: ★
+        - generic [ref=e383]:
+          - generic [ref=e384]: PS
+          - generic [ref=e385]:
+            - generic [ref=e386]: Priya Sharma
+            - generic [ref=e387]: Delhi NCR
+      - generic [ref=e388]:
+        - generic: "\""
+        - paragraph [ref=e389]: Having visited many properties in Shimla, Task Constructions stands out for their honest pricing and solid build quality. The location near ISBT makes it incredibly convenient.
+        - generic "5 stars" [ref=e390]:
+          - generic [ref=e391]: ★
+          - generic [ref=e392]: ★
+          - generic [ref=e393]: ★
+          - generic [ref=e394]: ★
+          - generic [ref=e395]: ★
+        - generic [ref=e396]:
+          - generic [ref=e397]: AM
+          - generic [ref=e398]:
+            - generic [ref=e399]: Ankit Mehta
+            - generic [ref=e400]: Panchkula
+  - region "Call to action" [ref=e401]:
+    - generic [ref=e403]:
+      - img [ref=e405]
+      - generic [ref=e408]: CTA Background — Shimla Sunset / Snow Mountains
+    - generic [ref=e410]:
+      - paragraph [ref=e411]: Limited Units Available
+      - heading "Your Dream Attic in Shimla Awaits" [level=2] [ref=e412]:
+        - text: Your Dream Attic in
+        - emphasis [ref=e413]: Shimla Awaits
+      - paragraph [ref=e414]:
+        - text: Limited units available at Aman Vihar, Tutikandi.
+        - text: Book your site visit today.
+      - generic [ref=e415]:
+        - link "Schedule a site visit" [ref=e416] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Schedule a Visit
+        - link "Call us now" [ref=e417] [cursor=pointer]:
+          - /url: tel:+91XXXXXXXXXX
+          - text: "Call Now: +91 XXXXX XXXXX"
+  - generic [ref=e419]:
+    - generic [ref=e420]: Reach Out
+    - heading "Get in Touch" [level=2] [ref=e421]
+    - paragraph [ref=e422]: Interested in owning a premium attic in Shimla? We'd love to hear from you.
+    - generic [ref=e423]:
+      - generic [ref=e424]:
+        - generic [ref=e425]:
+          - paragraph [ref=e426]: Task Constructions
+          - paragraph [ref=e427]: Building Shimla's Finest Since 1985
+        - list [ref=e428]:
+          - listitem [ref=e429]:
+            - img [ref=e431]
+            - generic [ref=e434]:
+              - text: Aman Vihar, Tutikandi, Shimla,
+              - text: Himachal Pradesh 171004
+              - text: (Near ISBT)
+          - listitem [ref=e435]:
+            - img [ref=e437]
+            - link "+91 XXXXX XXXXX" [ref=e439] [cursor=pointer]:
+              - /url: tel:+91XXXXXXXXXX
+          - listitem [ref=e440]:
+            - img [ref=e442]
+            - link "info@taskconstructions.com" [ref=e445] [cursor=pointer]:
+              - /url: mailto:info@taskconstructions.com
+          - listitem [ref=e446]:
+            - img [ref=e448]
+            - link "+91 XXXXX XXXXX (WhatsApp)" [ref=e450] [cursor=pointer]:
+              - /url: https://wa.me/91XXXXXXXXXX?text=Hi%2C%20I'm%20interested%20in%20the%20attic%20units%20at%20Aman%20Vihar%2C%20Shimla.
+          - listitem [ref=e451]:
+            - img [ref=e453]
+            - generic [ref=e456]: Mon–Sat, 9:00 AM — 6:00 PM
+        - generic [ref=e458]:
+          - img [ref=e460]
+          - generic [ref=e463]: Google Maps Embed — Aman Vihar Location
+      - form "Enquiry form" [ref=e465]:
+        - generic [ref=e466]:
+          - generic [ref=e467]:
+            - generic [ref=e468]: Full Name *
+            - textbox "Full Name" [ref=e469]:
+              - /placeholder: Your full name
+          - generic [ref=e470]:
+            - generic [ref=e471]: Phone Number *
+            - textbox "Phone Number" [ref=e472]:
+              - /placeholder: +91 XXXXX XXXXX
+        - generic [ref=e473]:
+          - generic [ref=e474]: Email Address (optional)
+          - textbox "Email Address (optional)" [ref=e475]:
+            - /placeholder: your@email.com
+        - generic [ref=e476]:
+          - generic [ref=e477]: Interested In *
+          - generic [ref=e478]:
+            - combobox "Interested In" [ref=e479] [cursor=pointer]:
+              - option "Select your interest..." [disabled] [selected]
+              - option "Alpine Studio Attic — ₹18.5L"
+              - option "Cedar 1BHK Attic — ₹28L"
+              - option "Pine 2BHK Attic — ₹42L"
+              - option "Summit Penthouse — ₹65L"
+              - option "Site Visit"
+              - option "General Enquiry"
+            - generic:
+              - img
+        - generic [ref=e480]:
+          - generic [ref=e481]: Message (optional)
+          - textbox "Message (optional)" [ref=e482]:
+            - /placeholder: Tell us about your requirements, preferred unit, visit dates...
+        - button "Send enquiry" [ref=e483] [cursor=pointer]:
+          - text: Send Enquiry
+          - img [ref=e484]
+        - paragraph [ref=e486]: We typically respond within 2 hours during business hours.
+  - contentinfo [ref=e487]:
+    - generic [ref=e488]:
+      - generic [ref=e489]:
+        - generic [ref=e490]:
+          - link "Task Constructions Est. 1985" [ref=e491] [cursor=pointer]:
+            - /url: "#home"
+            - generic [ref=e492]: Task Constructions
+            - generic [ref=e493]: Est. 1985
+          - paragraph [ref=e494]: Premium attic living spaces in the heart of Shimla, built with 40+ years of Himalayan construction expertise.
+        - navigation "Footer navigation" [ref=e495]:
+          - paragraph [ref=e496]: Quick Links
+          - list [ref=e497]:
+            - listitem [ref=e498]:
+              - link "Home" [ref=e499] [cursor=pointer]:
+                - /url: "#home"
+            - listitem [ref=e500]:
+              - link "About" [ref=e501] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e502]:
+              - link "Attics" [ref=e503] [cursor=pointer]:
+                - /url: "#attics"
+            - listitem [ref=e504]:
+              - link "Gallery" [ref=e505] [cursor=pointer]:
+                - /url: "#gallery"
+            - listitem [ref=e506]:
+              - link "Contact" [ref=e507] [cursor=pointer]:
+                - /url: "#contact"
+            - listitem [ref=e508]:
+              - link "Book a Site Visit" [ref=e509] [cursor=pointer]:
+                - /url: "#contact"
+        - generic [ref=e510]:
+          - paragraph [ref=e511]: Contact Us
+          - list [ref=e512]:
+            - listitem [ref=e513]: Aman Vihar, Tutikandi, Shimla — 171004
+            - listitem [ref=e514]:
+              - link "+91 XXXXX XXXXX" [ref=e515] [cursor=pointer]:
+                - /url: tel:+91XXXXXXXXXX
+            - listitem [ref=e516]:
+              - link "info@taskconstructions.com" [ref=e517] [cursor=pointer]:
+                - /url: mailto:info@taskconstructions.com
+          - generic "Social media links" [ref=e518]:
+            - link "Instagram" [ref=e519] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e520]
+            - link "Facebook" [ref=e524] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e525]
+            - link "YouTube" [ref=e527] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e528]
+      - separator [ref=e531]
+      - generic [ref=e532]:
+        - generic [ref=e533]: © 2025 Task Constructions. All Rights Reserved.
+        - generic [ref=e534]: "RERA Registration: HP/XXXX/XXXX (Placeholder)"
+        - generic [ref=e535]:
+          - text: Website by
+          - link "Apex Automations" [ref=e536] [cursor=pointer]:
+            - /url: "#"
+  - link "Chat with us on WhatsApp" [ref=e537] [cursor=pointer]:
+    - /url: https://wa.me/91XXXXXXXXXX?text=Hi%2C%20I'm%20interested%20in%20the%20attic%20units%20at%20Aman%20Vihar%2C%20Shimla.%20Please%20share%20more%20details.
+    - img [ref=e538]
+    - generic: Chat with us on WhatsApp
+  - button "Back to top":
+    - img
